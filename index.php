@@ -73,13 +73,13 @@ include './conexiones/paginaPrincipalinformacion.php';
      data-aos-duration="6000" >
                 <div class="row " style="padding: 70px 0px">
                     <div class="col-md-6"style="border-right: 3px solid #FF7C00" >
-                        <h2>NUESTRA HISTORIA</h2>
+                        <h2 style="color: red;">NUESTRA HISTORIA</h2>
                         <p>
                         Fundación Cultural Armonía es una organización sin fines de lucro que nace en Quito con el objetivo de impulsar proyectos
                          educativos y socio-culturales. Nuestra visión es promover el intercambio de experiencias en todos los ámbitos del arte, la educación y la investigación.
                          
                         </p>
-                        
+                       
                     </div>
                     
                     <div class="col-md-6">
